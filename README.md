@@ -2,7 +2,7 @@
 
  
 
-<h2 align="center">Hi 👋, I'm VuLVH</h2>
+<h2 align="center">Hi 👋, I'm Hoang Vu </h2>
 <img align="right" width="64" src="https://img.icons8.com/?size=100&id=i2llp4qsMKom&format=png&color=000000" />
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
